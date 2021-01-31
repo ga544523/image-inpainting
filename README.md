@@ -7,7 +7,7 @@ The main difference in this code is that it only consider to remove the rectangl
 
 By doing that,we only need to handle four normal vector directions( (0,1),(1,0),(-1,0),(0,-1)) which reduce the difficulty of implementation to leetcode easy problem, joy!
 
-2021/1/31 update eight normal((0,1),(1,0),(-1,0),(0,-1),(1,1),(1,-1),(-1,1),(-1,-1)) directions version but cannot see the significant diffenence, Why?
+2021/1/31 update eight normal directions((0,1),(1,0),(-1,0),(0,-1),(1,1),(1,-1),(-1,1),(-1,-1)) version but cannot see the significant diffenence, Why? someboy tell me
 -----------------------------------------
 
 ![image](https://github.com/ga544523/image-inpainting/blob/main/result/result5.PNG?raw=true)
