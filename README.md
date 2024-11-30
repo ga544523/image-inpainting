@@ -10,11 +10,6 @@ By doing that,we only need to handle four normal vector directions( (0,1),(1,0),
 2021/1/31 update eight normal directions((0,1),(1,0),(-1,0),(0,-1),(1,1),(1,-1),(-1,1),(-1,-1)) version but cannot see the significant diffenence, Why? someboy tell me
 -----------------------------------------
 
-![image](https://github.com/ga544523/image-inpainting/blob/main/result/result5.PNG?raw=true)
-
-
-
-
 ![image](https://github.com/ga544523/image-inpainting/blob/main/result/result2.PNG?raw=true)
 
 
